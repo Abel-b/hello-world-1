@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Abel-b](https://github.com/Abel-b)
+- 
 
 ## Project setup instructions
 To start using this project use the following commands:
